@@ -1,0 +1,9 @@
+{
+    "name": "my-todolist",
+    "version": "0.1.0",
+    "dependencies": {
+        "ejs": "^2.1.4"
+    },
+    "author": "Mateo21 <mateo21@email.com>",
+    "description": "A very basic to do list manager"
+}
